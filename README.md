@@ -2,7 +2,7 @@
 
 QuizzyBee is a Java Swing application that allows students to upload PDF syllabi and automatically generates multiple-choice questions (MCQs) for exam practice using Google's Gemini AI.
 
-## Features
+## Feature
 
 - PDF syllabus upload and text extraction
 - Automatic MCQ generation using Gemini AI
